@@ -1,2 +1,6 @@
 # Project-1
-Millos
+## Libraries used
+### Pandas
+### Numpy
+### matplotlib.pyplot
+
